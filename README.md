@@ -4,7 +4,7 @@ world of wonders is a simple static website website, basically the first one in 
 
 ## live prewiew
 
-tba on vercel
+[world of wonders](https://world-of-wonders.vercel.app/)
 
 ## used technologies
 
