@@ -113,3 +113,9 @@ testimonial-img {
     font-weight: 500;
     font-size: 1.25rem;
 }
+
+@media (max-width: 993px) {
+    .hover:hover {
+        transform: none;
+    }
+}
